@@ -1,0 +1,11 @@
+new thingss learned: 
+bubble sort: compare succesive two elements
+s.erase() function
+rand() and srand()
+use of && and ||
+multi dimensional array 
+games using array (beautiful matrix)
+toupper() to convert to big letter
+tolower() same stuff
+str1.replace(position,length,str2);  
+
